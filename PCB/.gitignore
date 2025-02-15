@@ -1,0 +1,6 @@
+hackpad-backups/
+fp-info-cache 
+kbplacer.log
+place_footprints.log
+venv/
+*.lck
