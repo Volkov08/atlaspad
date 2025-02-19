@@ -5,5 +5,5 @@
   (lib (name "OLED_096_636")(type "KiCad")(uri "${KIPRJMOD}/Libraries/OLED_096_636.pretty")(options "")(descr ""))
   (lib (name "Kailh_PG1353_Solderable")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Kailh_PG1353_Solderable.pretty")(options "")(descr ""))
   (lib (name "EC05E1220203")(type "KiCad")(uri "${KIPRJMOD}/Libraries/EC05E1220203.pretty")(options "")(descr ""))
-  (lib (name "Downloads")(type "KiCad")(uri "/home/Simon/Downloads")(options "")(descr ""))
+  (lib (name "assets")(type "KiCad")(uri "/home/Simon/Documents/hackpad/assets")(options "")(descr ""))
 )
